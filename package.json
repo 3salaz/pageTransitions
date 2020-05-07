@@ -1,0 +1,24 @@
+{
+  "name": "pagetransition",
+  "version": "1.0.0",
+  "description": "page transition",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3salaz/pageTransitions.git"
+  },
+  "keywords": [
+    "javascript",
+    "parcel-bundler"
+  ],
+  "author": "3salaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3salaz/pageTransitions/issues"
+  },
+  "homepage": "https://github.com/3salaz/pageTransitions#readme"
+}
